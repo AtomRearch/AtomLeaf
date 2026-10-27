@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/examples.html
+!/guide.html
+!/about.html
+!/assets/
+/assets/*
+!/assets/icon.png
